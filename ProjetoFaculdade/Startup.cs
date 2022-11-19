@@ -29,10 +29,11 @@ namespace ProjetoFaculdade
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(
-            context => context.UseSqlite(Configuration.GetConnectionString("Default"))    
+            context => context.UseSqlite(Configuration.GetConnectionString("Default"))
                 );
 
             services.AddControllers();
+            services.AddCors();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjetoFaculdade", Version = "v1" });
@@ -54,6 +55,12 @@ namespace ProjetoFaculdade
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(x => x
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowAnyOrigin()
+            );
 
             app.UseEndpoints(endpoints =>
             {
