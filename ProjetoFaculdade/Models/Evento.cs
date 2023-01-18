@@ -13,3 +13,4 @@ namespace ProEventos.API.Models
         public string ImagemURL { get; set; }
     }
 }
+ 
