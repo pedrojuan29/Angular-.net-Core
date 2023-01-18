@@ -1,0 +1,12 @@
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\refint\ProEventos.Persistence.dll
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+E:\Dev\Visual Studio\repos\AngularDotNet\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll

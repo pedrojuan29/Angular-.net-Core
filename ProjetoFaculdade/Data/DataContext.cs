@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProjetoFaculdade.Models;
+using ProEventos.API.Models;
 using System.Security.Principal;
 
-namespace ProjetoFaculdade.Data
+namespace ProEventos.API.Data
 {
     public class DataContext: DbContext
     {

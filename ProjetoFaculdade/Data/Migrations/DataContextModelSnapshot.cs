@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ProjetoFaculdade.Data;
+using ProEventos.API.Data;
 
 #nullable disable
 
-namespace ProjetoFaculdade.API.Data.Migrations
+namespace ProEventos.API.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
     partial class DataContextModelSnapshot : ModelSnapshot

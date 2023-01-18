@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using ProjetoFaculdade.Data;
-using ProjetoFaculdade.Models;
+using ProEventos.API.Models;
+using ProEventos.API.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ProjetoFaculdade.Controllers
+namespace ProEventos.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

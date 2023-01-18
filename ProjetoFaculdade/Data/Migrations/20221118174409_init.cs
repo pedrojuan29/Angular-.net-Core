@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ProjetoFaculdade.API.Data.Migrations
+namespace ProEventos.API.Data.Migrations
 {
     /// <inheritdoc />
     public partial class init : Migration

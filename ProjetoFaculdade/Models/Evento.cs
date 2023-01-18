@@ -1,6 +1,6 @@
 ﻿using System.Security.Principal;
 
-namespace ProjetoFaculdade.Models
+namespace ProEventos.API.Models
 {
     public class Evento
     {

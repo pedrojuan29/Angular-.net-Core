@@ -3,17 +3,16 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ProjetoFaculdade.Data;
+using ProEventos.API.Data;
 
 #nullable disable
 
-namespace ProjetoFaculdade.API.Data.Migrations
+namespace ProEventos.API.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
     [Migration("20221118174409_init")]
     partial class init
     {
-        /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
