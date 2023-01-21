@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.API", "ProjetoFaculdade\ProEventos.API.csproj", "{985A540F-CB78-48C9-A68F-6C4DA343DC11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEventos.Persistence", "ProEventos.Persistence\ProEventos.Persistence.csproj", "{B7FA4EE9-FD3C-49C4-81C1-0E1B075EE634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.Persistence", "ProEventos.Persistence\ProEventos.Persistence.csproj", "{B7FA4EE9-FD3C-49C4-81C1-0E1B075EE634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEventos.Domain", "ProEventos.Domain\ProEventos.Domain.csproj", "{4FABCB79-1D95-4946-BB7C-A3B51AA82383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.Domain", "ProEventos.Domain\ProEventos.Domain.csproj", "{4FABCB79-1D95-4946-BB7C-A3B51AA82383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEventos.Application", "ProEventosApplication\ProEventos.Application.csproj", "{28B8322F-A331-4902-B723-5FFE361BD149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.Application", "ProEventos.Application\ProEventos.Application.csproj", "{C9A34C1D-11EB-444B-AEF4-A342ADF82AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{4FABCB79-1D95-4946-BB7C-A3B51AA82383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FABCB79-1D95-4946-BB7C-A3B51AA82383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FABCB79-1D95-4946-BB7C-A3B51AA82383}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28B8322F-A331-4902-B723-5FFE361BD149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28B8322F-A331-4902-B723-5FFE361BD149}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28B8322F-A331-4902-B723-5FFE361BD149}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28B8322F-A331-4902-B723-5FFE361BD149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A34C1D-11EB-444B-AEF4-A342ADF82AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A34C1D-11EB-444B-AEF4-A342ADF82AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A34C1D-11EB-444B-AEF4-A342ADF82AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A34C1D-11EB-444B-AEF4-A342ADF82AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
